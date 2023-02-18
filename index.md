@@ -26,8 +26,12 @@ Hi,I am Molyuu (a.k.a 摸鱼 in Chinese), a middle school student in Shanghai,Ch
 ## What can I do
 
 ~~- Eating (2007-now)~~
+
 ~~- Wasting time (2007-now)~~
+
 ~~- Day dreaming(I AM REALLY GOOD AT THIS) (2007-now)~~
+
+- I can nothing but crying for depression and anxiety 😭
 
 ## Contact
 
