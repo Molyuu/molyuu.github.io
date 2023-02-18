@@ -21,13 +21,16 @@ Hi,I am Molyuu (a.k.a 摸鱼 in Chinese), a middle school student in Shanghai,Ch
 2. Locations: Shanghai
 3. Languages: Chinese(native)/ English(poor)/ ~~German(ungefähr gleich no)~~
 4. Pronouns: he/him
-5. Contact: See [contact](#5contact) below
+5. Contact: See [contact](#contact) below
 
-## What I can do
+## What can I do
 
+~~- Eating (2007-now)~~
+~~- Wasting time (2007-now)~~
+~~- Day dreaming(I AM REALLY GOOD AT THIS) (2007-now)~~
 
 ## Contact
 
 - E-Mail: zhangjtroger@gmail.com
-- Matrix: https://matrix.to/#/@molyuu:mozilla.org
-- Misskey: https://neko.ci/@Molyuu
+- Matrix: <https://matrix.to/#/@molyuu:mozilla.org>
+- Misskey: <https://neko.ci/@Molyuu>
